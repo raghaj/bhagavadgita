@@ -8,7 +8,7 @@
 == Introduction
 
 There are 72 verses in chapter 2.
-Based on their content they can be categorized to 4 groups.
+Based on their content they can be categorized to 5 groups.
 
 [%header,format=csv]
 |===
