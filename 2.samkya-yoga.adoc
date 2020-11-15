@@ -74,7 +74,9 @@ Verse-7 Karpanyadoshopahata
 
 audio::./audios/2-chapter/7-karpanyadosha-1.ogg[]
 
-audio::./audios/2-chapter/7-karpanyadosha-2.ogg[]
+audio::./audios/2-chapter/7-karpanyadosha-2.ogg[options="autoplay,loop"]
+
+
 
 
 
