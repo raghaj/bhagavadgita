@@ -72,9 +72,9 @@ In total, 10 + 20 + 7 + 16  + 19  = 72 Verses
 Verse-7 Karpanyadoshopahata
 
 
-audio::./audios/2-chapter/7-karpanyadosha-1.ogg[]
-
-audio::./audios/2-chapter/7-karpanyadosha-2.ogg[options="autoplay,loop"]
+//audio::./audios/2-chapter/7-karpanyadosha-1.ogg[]
+//
+//audio::./audios/2-chapter/7-karpanyadosha-2.ogg[options="autoplay,loop"]
 
 
 
