@@ -1,4 +1,4 @@
-= Advanced Diploma in Music - Level 2
+= BhagavadGita
 :linkcss:
 :imagesdir: ./images
 :stylesdir: stylesheets/
