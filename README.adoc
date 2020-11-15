@@ -5,7 +5,7 @@
 :stylesheet:  colony.css
 :data-uri:
 
-= Table of Contents
+== Table of Contents
 
 === Gita - Summary
 

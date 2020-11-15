@@ -1,11 +1,13 @@
-= 2. Samkhya Yoga
+
+== 2. Samkhya Yoga
+=== Introduction
+
 :linkcss:
 :imagesdir: ./images
 :stylesdir: stylesheets/
 :stylesheet:  colony.css
 :data-uri:
 
-== Introduction
 
 There are 72 verses in chapter 2.
 Based on their content they can be categorized to 5 groups.
