@@ -74,9 +74,8 @@ In total, 10 + 20 + 7 + 16  + 19  = 72 Verses
 
 === TVS Pravachanams
 
-Verse-7 Karpanyadoshopahata
+link:./images/audios/2-chapter/7-karpanyadosha-1.mp3[TVS Pravachanam - Verse 7 : Karpandosho 1]
 
-link:./images/audios/2-chapter/7-karpanyadosha-1.mp3[TVS Pravachanam - Verse: Karpandosho 1]
-link:./images/audios/2-chapter/7-karpanyadosha-2.mp3[TVS Pravachanam - Verse: Karpandosho 2]
+link:./images/audios/2-chapter/7-karpanyadosha-2.mp3[TVS Pravachanam - Verse 7: Karpandosho 2]
 
 @Courtesy: Dr.Lakshmana Rao Ayyagari. @copy-right to Raghavi Janaswamy and Dr.Lakshamana Rao Ayyagari
