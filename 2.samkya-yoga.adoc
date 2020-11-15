@@ -5,7 +5,9 @@
 :stylesdir: stylesheets/
 :stylesheet:  colony.css
 :data-uri:
-== 2. Samkhya Yoga
+:toc:
+
+== Samkhya Yoga
 === Introduction
 
 
@@ -30,7 +32,7 @@ Fifth group, verses 54 to 72 (19 verses), Describes the Characteristics of a per
 
 In total, 10 + 20 + 7 + 16  + 19  = 72 Verses
 
-== Approach to Gita
+=== Approach to Gita
 
 1. Understand each word - including its grammatical aspects.
 2. Synthesize the spirit of each verse - not in isolation but in-sync  with ఉపనిషద్ wisdom.
@@ -68,13 +70,61 @@ In total, 10 + 20 + 7 + 16  + 19  = 72 Verses
 చేరును గమ్యం +
 
 
-=== Reference Audios
+== Reference Audios
+
+=== TVS Pravachanams
 
 Verse-7 Karpanyadoshopahata
+
 
 audio::./audios/2-chapter/7-karpanyadosha-1.mp3[]
 
 audio::./audios/2-chapter/7-karpanyadosha-2.mp3[options="autoplay,loop"]
+
+=== Raghavi Janaswamy: Sloka Renderings
+
+==== Verse 1:
+audio::./audios/2-chapter/chap2-1.mp3[]
+==== Verse 2:
+audio::./audios/2-chapter/chap2-2.mp3[]
+==== Verse 3:
+audio::./audios/2-chapter/chap2-3.mp3[]
+==== Verse 4 :
+audio::./audios/2-chapter/chap2-4.mp3[]
+==== Verse 5:
+audio::./audios/2-chapter/chap2-5.mp3[]
+==== Verse 6:
+audio::./audios/2-chapter/chap2-6.mp3[]
+==== Verse 7:
+audio::./audios/2-chapter/chap2-7.mp3[]
+==== Verse 8:
+audio::./audios/2-chapter/chap2-8.mp3[]
+==== Verse 9:
+audio::./audios/2-chapter/chap2-9.mp3[]
+==== Verse 10:
+audio::./audios/2-chapter/chap2-10.mp3[]
+==== Verse 11:
+audio::./audios/2-chapter/chap2-11.mp3[]
+==== Verse 12:
+audio::./audios/2-chapter/chap2-12.mp3[]
+==== Verse 13:
+audio::./audios/2-chapter/chap2-13.mp3[]
+==== Verse 14:
+audio::./audios/2-chapter/chap2-14.mp3[]
+==== Verse 15:
+audio::./audios/2-chapter/chap2-15.mp3[]
+==== Verse 16:
+audio::./audios/2-chapter/chap2-16.mp3[]
+==== Verse 17:
+audio::./audios/2-chapter/chap2-17.mp3[]
+==== Verse 18:
+audio::./audios/2-chapter/chap2-18.mp3[]
+==== Verse 19:
+audio::./audios/2-chapter/chap2-19.mp3[]
+
+
+
+
 
 
 
