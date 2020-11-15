@@ -1,0 +1,12 @@
+= Advanced Diploma in Music - Level 2
+:linkcss:
+:imagesdir: ./images
+:stylesdir: stylesheets/
+:stylesheet:  colony.css
+:data-uri:
+
+= Table of Contents
+
+=== Gita - Summary
+
+1. link:./2.samkya-yoga.html[2. Samkhya Yoga]

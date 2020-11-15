@@ -1,0 +1,68 @@
+= 2. Samkhya Yoga
+:linkcss:
+:imagesdir: ./images
+:stylesdir: stylesheets/
+:stylesheet:  colony.css
+:data-uri:
+
+== Introduction
+
+There are 72 verses in chapter 2.
+Based on their content they can be categorized to 4 groups.
+
+[%header,format=csv]
+|===
+
+Group, Verses, Description
+
+First group,Verse 1 to verse 10 (10 verses), Describe the context (that starts with how అర్జున’s state of mind was after the first chapter events.) that finally lead to exposition of గీతా శాస్త్ర by భగవాన్.
+
+Second Group,Verse 11 to 30 (20 verses), Describes సాంఖ్య - also known as  ఆత్మ అనాత్మ వివేక జ్ఞానం
+
+Third group, Verse 31 to verse 37 (7 Verses), Describes the Non-vedantic reasons to do the right thing that are mentioned by krishna. This is లౌకిక (nothing to do with ఉపనిషద్ /వేదాంత teaching / understanding) న్యాయం and ధర్మం.
+
+Fourth group, Verse 38 to verse 53 (16 verses), Describes the బుద్ధి, యోగ.
+
+Fifth group - verses 54 to 72 (19 verses), Describes the Characteristics of a person of firm wisdom (స్థితప్రజ్ఞస్య  లక్షణాని Characteristics of a స్థితప్రజ్ఞః - 6/1).
+|===
+
+10 + 20 + 7 + 16  + 19  = 72.
+
+== Approach to Gita
+
+1. Understand each word - including its grammatical aspects.
+2. Synthesize the spirit of each verse - not in isolation but in-sync  with ఉపనిషద్ wisdom.
+3. కంఠస్థ - Entire verse or a statement or 2 from each verse should be in your కంఠ -
+    not memoryస్థ or bookస్థ or shelfస్థ. Not the translated meaning but the actual Sanskrit word / statement.
+
+జగత ఈశధీ యుక్త సేవనం
+
+తడ బడు అడుగుల బుడతడి కైనా
+వడి వడి పరుగుల గడ సరి కైనా
+అడు గిడు సందడి కది ఆధారం
+అడుగును కిందకి ఈడ్వడమై (gravity)
+పుడమిని ఇమిడిన ఈశ్వరుడే
+
+గుడి లో గడపకి అవతల ఉన్నది
+వాడే దేముడు అనుకుంటూ
+
+మడి తో చేసే  పూజ కి మెచ్చి
+అడిగిన వన్నీ ఇచ్చే వాడని
+
+నమ్మే మూర్ఖుడి  గడ బిడ తీర్చుట
+ఈశుడి కైనా  గడవని పనిలే !
+
+నేనూ నాదను
+అహమే ఇహలో
+మోహాజాలం
+మీలో నాలో
+మారడమంటే
+యేదో కాదు
+గారడి నుంచీ
+వేరగుటేను
+మరిన నాడే
+తీరును దుఃఖం
+మరిన వాడే
+చేరును గమ్యం
+
+@Courtesy: Dr.Lakshmana Rao Ayyagari. @copy-right to Raghavi Janaswamy and Dr.Lakshamana Rao Ayyagari
