@@ -2,6 +2,7 @@
 
 :linkcss:
 :imagesdir: ./images
+:iconsdir: ./icons
 :stylesdir: stylesheets/
 :stylesheet:  colony.css
 :data-uri:
@@ -9,7 +10,6 @@
 
 == Samkhya Yoga
 === Introduction
-
 
 
 There are 72 verses in chapter 2.
@@ -76,8 +76,8 @@ In total, 10 + 20 + 7 + 16  + 19  = 72 Verses
 
 Verse-7 Karpanyadoshopahata
 
-
-audio::./audios/2-chapter/7-karpanyadosha-1.mp3[]
+link:./images/audios/2-chapter/7-karpanyadosha-1.mp3[TVS Pravachanam - Verse: Karpandosho 1]
+link:./images/audios/2-chapter/7-karpanyadosha-2.mp3[TVS Pravachanam - Verse: Karpandosho 2]
 
 audio::./audios/2-chapter/7-karpanyadosha-2.mp3[options="autoplay,loop"]
 
