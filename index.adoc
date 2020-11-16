@@ -9,3 +9,5 @@
 == link:./0-introduction.html[0. Geeta Organization - Sanskrit Language]
 == link:./2.samkya-yoga.html[2. Samkhya Yoga]
 == link:./12.bhakti-yoga.html[12. Bhakti Yoga]
+
+
