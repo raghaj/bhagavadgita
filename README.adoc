@@ -4,9 +4,7 @@
 :stylesdir: stylesheets/
 :stylesheet:  colony.css
 :data-uri:
+:toc:
 
-== Table of Contents
-
-=== Gita - Summary
-
-1. link:./2.samkya-yoga.adoc[2. Samkhya Yoga]
+== link:./0-introduction.adoc[0. Geeta Organization - Sanskrit Language]
+== link:./2.samkya-yoga.adoc[2. Samkhya Yoga]

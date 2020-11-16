@@ -1,0 +1,64 @@
+
+
+:linkcss:
+:imagesdir: ./images
+:iconsdir: ./icons
+:stylesdir: stylesheets/
+:stylesheet:  colony.css
+:data-uri:
+:toc:
+
+== Meter / ఛందస్సు  in BhagavadGita
+
+1. Some are simple words and others are compound words. (combination of 2 or more words) +
+Compound words are called సమాసము - సమాస పదము. +
+
+Words and compound words - పదములు and సమాస పదములు. +
+
+Here Compound words / సమాసములు is very very common and frequent. +
+
+(No very frequent in English - like snowball, railroad, inside, outside, mailbox etc.,) +
+In no time at all you will start recognizing these. +
+
+Also note that there are many one letter / syllable words.
+
+(తం, త్వం, తే, నః, మా etc., ONLY one letter words in English are “A” and “I”)
+
+2.
+ “ సన్ధి “ knowledge is the scalpel. +
+ “పదచ్ఛేదః” is breaking the words of each phrase
+
+3.
+Most common metrical form is అనుష్టుభ్ / అనుష్టుప్ (8 అక్షరములు - 8 syllables).
+
+అనుష్టుప్ఛన్దసి చత్వారః పాదాః భవన్తి ఛ +
+ప్రత్యేకపాదే చ అష్ట అక్షరాణి। +
+శ్లోకే షష్ఠం గురు జ్ఞేయం +
+సర్వత్ర లఘు పఞ్చమమ్। +
+
+ద్విచతుష్పాదయోర్హ్రస్వం సప్తమం +
+దీర్ఘమన్యయోః॥ +
+
+అస్య ఛన్దసః +
+షష్ఠమ్ అక్షరం గురు +
+పఞ్చమమ్ చ లఘు। +
+సప్తమమ్ అక్షరం ప్రథమే తృతీయే చ పాదే గురు, +
+ద్విచతుష్పదయోః సప్తమమ్ అక్షరం లఘు భవతి। +
+
+సప్తమమ్ అక్షరం యథాక్రమమ్ పరివర్తతే, +
+ప్రథమపాదే గురు +
+ద్వితీయపాదే లఘు +
+తృతియపాదే గురు +
+చతుష్పాదే లఘు। +
+
+== Gita Verses Patterns
+
+In most Verses of Bhagavad Gita, There are 2 lines in each verse.
+
+Each line has 2 halves - పాద’s. (First half and second half)
+
+Each పాద has 8 syllables.
+
+
+
+@Courtesy: Dr.Lakshmana Rao Ayyagari. @copy-right to Raghavi Janaswamy and Dr.Lakshamana Rao Ayyagari
