@@ -96,8 +96,7 @@ Familiarize with the word ప్రత్యయం - suffixes - primary and seco
 
 Familiarize with ఉపసర్గా - ద్వావింశతిః ఉపసర్గా: - ప్ర, పరా, అప, సమ్‌, అను, అవ, నిస్‌, నిర్‌, దుస్‌, దుర్‌, వి, ఆ (ఆఙ్‌),
 
-===  సన్ధి - Lesson 1
-
+==  సన్ధి - Lesson 1
 
 A lot of Sanskrit words end with విసర్గ.
 So విసర్గ సన్ధి is encountered very frequently.
@@ -114,7 +113,9 @@ Simplistic view - Only 2 possibilities - either విసర్గ is dropped or
 
 Some other time (soon) we will see what happens when a word ending with విసర్గ is combined with another word that starts with a hard consonant and a soft consonant and other rules pertaining to విసర్గ సన్ధి:
 
-1. అః + అ > ఓ + ఽ (అవగ్రహ or silent అ).
+1.
+
+అః + అ > ఓ + ఽ (అవగ్రహ or silent అ).
 Example:
 నమః + అస్తు > నమోఽస్తు.
 
@@ -124,7 +125,9 @@ Actually 3 things happen here.
 Then that “ఉ” gains గుణ and becomes “ఓ” - గుణః
 Thirdly another సన్ధి rule comes into play here గుణ vowels ఏ / ఓ + అ   > “అ” drops, often replaced with an అవగ్రహ ఽ పూర్వరుపసన్ధిః
 
-2. అః + Any vowel except అ > విసర్గ is dropped.   విసర్గ లోప సన్ధి
+2.
+
+అః + Any vowel except అ > విసర్గ is dropped.   విసర్గ లోప సన్ధి
 Example:
 అర్జునః + ఉవాచ > అర్జున ఉవాచ
 ధృతరాష్ట్రః + ఉవాచ  > ధృతరాష్ట్ర ఉవాచ
