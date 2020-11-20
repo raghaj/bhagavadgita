@@ -169,6 +169,12 @@ link:./images/audios/0-introduction/Vishunu_purana_2.mp3[Vishunu SLoka 2] +
 
 link:./images/audios/0-introduction/Vishunu_purana_2_2.mp3[Vishunu SLoka 2 - Continued] +
 
+English Version
+
+link:./images/audios/0-introduction/Vishunu_purana_sloka_2_English.mp3[Vishunu SLoka 2 _ English ] +
+
+link:./images/audios/0-introduction/Vishunu_purana_sloka_2_2_English.mp3[Vishunu SLoka 2 - English - Continued] +
+
 
 
 @Courtesy: Dr.Lakshmana Rao Ayyagari. @copy-right to Raghavi Janaswamy and Dr.Lakshamana Rao Ayyagari
