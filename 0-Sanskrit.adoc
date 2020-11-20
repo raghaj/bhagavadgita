@@ -9,7 +9,8 @@
 :toc:
 
 = Table of Content
-== References
+
+
 
 http://www.learnsanskrit.org/tools/sanscript
 https://sanskrit.inria.fr/DICO/grammar.html
