@@ -147,27 +147,25 @@ Todays Audio 2
 అత్యంత-విరుద్ధ-అనేక-అర్థవత్వేన లౌకికైః గృహ్యమాణం-ఉపలభ్య
 అహం వివేకతః అర్థ-నిర్ధారణార్థం సంక్షేపతః వివరణం కరిష్యామి ॥
 
-link:./images/audios/0-introduction/Geeta_meaning.mp3[Geeta meaning]
+link:./images/audios/0-introduction/Geeta_meaning.mp3[Geeta meaning] +
 
-link:./images/audios/0-introduction/Geetha_meaning_2.mp3[Geeta meaning Continued]
+link:./images/audios/0-introduction/Geetha_meaning_2.mp3[Geeta meaning Continued] +
 
-link:./images/audios/0-introduction/Geeta_Song.mp3[Geeta Song Meaning]
+link:./images/audios/0-introduction/Geeta_Song.mp3[Geeta Song Meaning] +
 
 == Vishnu Purana Sloka
 
 నారాయణః పరోఽవ్యక్తాత్ అండమవ్యక్తసంభవం ।
 అండస్యాంతస్త్విమే లోకాః సప్తద్వీపా చ మేదినీ ॥
 
-link:./images/audios/0-introduction/narayana_meaning.mp3[Narayana Meaning]
+link:./images/audios/0-introduction/narayana_meaning.mp3 [Narayana Meaning] +
 
 link:./images/audios/0-introduction/narayana_meaning_2.mp3[Narayana Meaning Continued]
 
 నారాయణం నమస్కృత్య నరం చైవ నరోత్తమమ్
 దేవీం సరస్వతీం వ్యాసం తతో జయముదీరయేత్
 
-link:./images/audios/0-introduction/Vishunu_purana_2.mp3[Vishunu SLoka 2]
-
-link:./images/audios/0-introduction/Vishunu_purana_2_2.mp3[Vishunu SLoka 2 - Continued]
+link:./images/audios/0-introduction/Vishunu_purana_2_2.mp3[Vishunu SLoka 2] +
 
 
 
