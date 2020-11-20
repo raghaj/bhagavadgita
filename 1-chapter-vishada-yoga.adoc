@@ -1,0 +1,13 @@
+
+
+:linkcss:
+:imagesdir: ./images
+:iconsdir: ./icons
+:stylesdir: stylesheets/
+:stylesheet:  colony.css
+:data-uri:
+:toc:
+
+= 1. Chapter - Arjuna Vishada Yoga
+
+
