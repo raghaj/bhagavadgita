@@ -154,12 +154,14 @@ link:./images/audios/0-introduction/Geetha_meaning_2.mp3[Geeta meaning Continued
 link:./images/audios/0-introduction/Geeta_Song.mp3[Geeta Song Meaning] +
 
 == Vishnu Purana Sloka
+
+=== Telugu Version
+
 1.
 
 నారాయణః పరోఽవ్యక్తాత్ అండమవ్యక్తసంభవం ।
 అండస్యాంతస్త్విమే లోకాః సప్తద్వీపా చ మేదినీ ॥ +
 
-=== Telugu Version
 
 link:./images/audios/0-introduction/narayana_meaning.mp3[Narayana Meaning]
 
