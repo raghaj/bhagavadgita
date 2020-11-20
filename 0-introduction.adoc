@@ -161,7 +161,7 @@ link:./images/audios/0-introduction/Geeta_Song.mp3[Geeta Song Meaning] +
 
 === Telugu Version
 
-link:./images/audios/0-introduction/narayana_meaning.mp3[Narayana Meaning] +
+link:./images/audios/0-introduction/narayana_meaning.mp3[Narayana Meaning]
 
 link:./images/audios/0-introduction/narayana_meaning_2.mp3[Narayana Meaning Continued]
 
