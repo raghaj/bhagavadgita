@@ -1,0 +1,197 @@
+
+
+:linkcss:
+:imagesdir: ./images
+:iconsdir: ./icons
+:stylesdir: stylesheets/
+:stylesheet:  colony.css
+:data-uri:
+:toc:
+
+= Table of Content
+== References
+
+http://www.learnsanskrit.org/tools/sanscript
+https://sanskrit.inria.fr/DICO/grammar.html
+https://spokensanskrit.org/index.php?tran_input=अपनयन&direct=se&script=hk&link=yes&mode=3
+
+3.
+
+
+అనుష్టుప్ఛన్దః
+
+అనుష్టుప్ఛన్దసి చత్వారః పాదాః భవన్తి ఛ
+ప్రత్యేకపాదే చ అష్ట అక్షరాణి।
+శ్లోకే షష్ఠం గురు జ్ఞేయం
+సర్వత్ర లఘు పఞ్చమమ్।
+
+ద్విచతుష్పాదయోర్హ్రస్వం సప్తమం
+దీర్ఘమన్యయోః॥
+
+అస్య ఛన్దసః
+షష్ఠమ్ అక్షరం గురు
+పఞ్చమమ్ చ లఘు।
+సప్తమమ్ అక్షరం ప్రథమే తృతీయే చ పాదే గురు,
+ద్విచతుష్పదయోః సప్తమమ్ అక్షరం లఘు భవతి।
+
+సప్తమమ్ అక్షరం యథాక్రమమ్ పరివర్తతే,
+ప్రథమపాదే గురు
+ద్వితీయపాదే లఘు
+తృతియపాదే గురు
+చతుష్పాదే లఘు।
+
+Now lets break the సన్ధిs - పదచ్ఛేదః
+
+అనుష్టుప్ఛన్దసి చత్వారః పాదాః భవన్తి (=are) ఛ (అనుష్టుప్ ఛన్దసి)
+Note - భవన్తి (pleural 3rd person verb in present tense - in Sanskrit it is called ప్రధమ పురుష బహువచన క్రియా పదం)
+ప్రత్యేకపాదే చ అష్ట అక్షరాణి (ప్రతి ఏక పాదే)
+Note - అక్షరాణి (pleural - like you add “s” in English [word to words] you add ఆని / ఆణి to the word అక్షర
+శ్లోకే షష్ఠం (6th one) గురు జ్ఞేయం (means KNOW)
+సర్వత్ర లఘు పఞ్చమమ్।
+
+ద్విచతుష్పాదయోర్హ్రస్వం సప్తమం (ద్వి చతుషు పాదయోః హ్రస్వం)
+Note - పాదయోః is Dual (ద్వివచనం - in English we have only singular and pleural, but in Sanskrit we have ద్వివచనం)
+దీర్ఘమన్యయోః॥ (దీర్ఘమ్ అన్యయోః)
+అన్యయోః means IN others
+
+అస్య ఛన్దసః
+షష్ఠమ్ అక్షరం గురు
+పఞ్చమమ్ చ లఘు।
+సప్తమమ్ అక్షరం ప్రథమే తృతీయే చ పాదే గురు,
+ద్విచతుష్పదయోః సప్తమమ్ అక్షరం లఘు భవతి। (ద్వి చతుషు పాదయోః)
+
+సప్తమమ్ అక్షరం యథాక్రమమ్ పరివర్తతే,
+ప్రథమపాదే గురు
+ద్వితీయపాదే లఘు
+తృతియపాదే గురు
+చతుష్పాదే లఘు।
+
+== Sanskrit in the context of Geeta
+
+Break the 2 lines of each verse into 4 పాద’s. అనుష్టుప్ ఛందస్ / meter
+
+Each line has 2 halves - పాద’s. (First half and second half of 1st line and 2nd Line )
+
+Count the number of syllables in each పాద’s - They should be 8 syllables
+
+Recognize words and compound words in each verse
+
+Find the Verb or verbs, and nouns and indeclinable words in each verse
+
+Learn to pay attention to end syllable / sound* of ప్రాతిపాదికం - It is the Stem word of every noun before విభక్తి modification.
+
+Get familiar with the nomenclature / terms used in Sanskrit grammar
+
+with సన్ధి / పదచ్ఛేదః - Types of సన్ధి
+
+With సమాసములు - బహువ్రీహి, తత్పురుష - విగ్రహ వాక్యం
+
+With Sanskrit verbs క్రియాపదం (ధాతు) - verb root
+
+With Nouns - నామ పదం (ప్రాతిపాదికం)
+
+With indeclinables - అవ్యయం - As name suggests these don’t undergo any change.
+
+Familiarize with the word ప్రత్యయం - suffixes - primary and secondary suffixes.
+
+Familiarize with ఉపసర్గా - ద్వావింశతిః ఉపసర్గా: - ప్ర, పరా, అప, సమ్‌, అను, అవ, నిస్‌, నిర్‌, దుస్‌, దుర్‌, వి, ఆ (ఆఙ్‌),
+
+===  సన్ధి - Lesson 1
+
+
+A lot of Sanskrit words end with విసర్గ.
+So విసర్గ సన్ధి is encountered very frequently.
+If you know how to split words joined by విసర్గ sandhi, you know 70% of పద విభాగ.
+
+Sanskrit alphabet terminology:
+
+అచ్ అచ్చులు స్వర - Vowels
+హల్ హల్లులు వ్యంజన - Consonants (Hard Consonants and soft Consonants - explained later)
+
+విసర్గ సన్ధి:
+Today we will see what happens when a word ending with విసర్గ is combined with another word that starts with a Vowel.
+Simplistic view - Only 2 possibilities - either విసర్గ is dropped or you end up with ఓ + ఽ (అవగ్రహ or silent అ)
+
+Some other time (soon) we will see what happens when a word ending with విసర్గ is combined with another word that starts with a hard consonant and a soft consonant and other rules pertaining to విసర్గ సన్ధి:
+
+1. అః + అ > ఓ + ఽ (అవగ్రహ or silent అ).
+Example:
+నమః + అస్తు > నమోఽస్తు.
+
+Actually 3 things happen here.
+
+విసర్గ becomes ఉ - ఉకారాదేశః
+Then that “ఉ” gains గుణ and becomes “ఓ” - గుణః
+Thirdly another సన్ధి rule comes into play here గుణ vowels ఏ / ఓ + అ   > “అ” drops, often replaced with an అవగ్రహ ఽ పూర్వరుపసన్ధిః
+
+2. అః + Any vowel except అ > విసర్గ is dropped.   విసర్గ లోప సన్ధి
+Example:
+అర్జునః + ఉవాచ > అర్జున ఉవాచ
+ధృతరాష్ట్రః + ఉవాచ  > ధృతరాష్ట్ర ఉవాచ
+సంజయః + ఉవాచ  >  సంజయ ఉవాచ
+కృష్ణః +  ఉవాచ  >  కృష్ణ ఉవాచ.
+
+Note వ్యాస (సంజయ) in భీష్మ పర్వము 25వ అధ్యాయము మొదలు 42వ అధ్యాయము వరకు 18 అధ్యాయములు భగవద్గీత USES “భగవాన్ ఉవాచ”.
+Every where else he uses కృష్ణ ఉవాచ. There is significance - TVS will explain.
+Only in 9 verses in the entire భగవద్గీత - you see the word “కృష్ణ” -
+Used by అర్జున (never by సంజయ) - as an address - సమ్బోధన విభక్తి 8th case Vocative -
+[“హే కృష్ణ” I have a question or what about this etc., like that]
+I am giving those 9 verses here for you to see. You can understand them easily.
+
+అర్జున ఉవాచ ।
+దృష్ట్వేమం స్వజనం కృష్ణ యుయుత్సుం సముపస్థితమ్ ।। 1.28 ।।
+సీదంతి మమ గాత్రాణి ముఖం చ పరిశుష్యతి ।
+
+Actually the statement spills into the first line of next verse.
+
+అర్జున ఉవాచ।
+దృష్ట్వేమం స్వ-జనం కృష్ణ యుయుత్సుం సముపస్థితమ్॥BhG.1.28॥
+సీదన్తి మమ గాత్రాణి ముఖం చ పరిశుష్యతి।
+వేపథుశ్ చ శరీరే మే రోమ-హర్షశ్ చ జాయతే॥BhG.1.29॥
+
+కృష్ణ - means హే కృష్ణ
+ఇమమ్ యుయుత్సుం సముపస్థితమ్ స్వజనం
+దృష్ట్వే - (after seeing)
+సీదంతి మమ గాత్రాణి
+చ (and)
+ముఖం పరిశుష్యతి
+చ (and)
+మే శరీరే
+వేపథుశ్ చ (and)
+రోమ-హర్షశ్
+జాయతే
+
+న కాంక్షే విజయం కృష్ణ న చ రాజ్యం సుఖాని చ ।
+కిం నో రాజ్యేన గోవింద కిం భోగైర్జీవితేన వా ।। 1.32 ।।
+
+యేషామర్థే కాంక్షితం నో రాజ్యం భోగాః సుఖాని చ ।
+త ఇమేఽవస్థితా యుద్ధే ప్రాణాంస్త్యక్త్వా ధనాని చ ।। 1.33 ।।
+
+అధర్మాభిభవాత్ కృష్ణ ప్రదుష్యంతి కులస్త్రియః ।
+స్త్రీషు దుష్టాసు వార్ష్ణేయ జాయతే వర్ణసంకరః ।। 41 ।।
+
+అర్జున ఉవాచ ।
+సన్న్యాసం కర్మణాం కృష్ణ పునర్యోగం చ శంససి ।
+యఛ్చ్రేయ ఏతయోరేకం తన్మే బ్రూహి సునిశ్చితమ్ ।। 5.1 ।।
+
+చంచలం హి మనః కృష్ణ ప్రమాథి బలవద్ధృడమ్ ।
+తస్యాహం నిగ్రహం మన్యే వాయోరివ సుదుష్కరమ్ ।। 6.34 ।।
+
+అర్జున ఉవాచ ।
+అయతిః శ్రద్ధయోపేతో యోగాచ్చలితమానసః ।
+అప్రాప్య యోగసంసిద్ధిం కాం గతి కృష్ణ గచ్ఛతి ।। 6.37 ।
+
+ఏతన్మే సంశయం కృష్ణ ఛేత్తుమర్హస్యశేషతః ।
+త్వదన్యః సంశయస్యాస్య ఛేత్తా న హ్యుపపద్యతే ।। 6.39 ।।
+
+అర్జున ఉవాచ ।
+యే శాస్త్రవిధిముత్సృజ్య యజంతే శ్రద్దయాన్వితాః ।
+తేషాం నిష్ఠా తు కా కృష్ణ సత్వమాహో రజస్తమః ।। 17.1 ।।
+
+In all these 9 verses the word “కృష్ణ” is used as an address - సమ్బోధన విభక్తి 8th case Vocative -
+[“హే కృష్ణ” I have a question or what about this etc., like that]
+
+
+
+
+@Courtesy: Dr.Lakshmana Rao Ayyagari. @copy-right to Raghavi Janaswamy and Dr.Lakshamana Rao Ayyagari

@@ -10,6 +10,14 @@
 
 == Approach to Gita
 
+== References
+
+https://satsang.arshavidya.org/swami-tattvavidananda/
+https://templesinindiainfo.com/shrimad-bhagavadgitashankarabhashyam-lyrics-in-telugu/
+
+
+
+
 1. Understand each word - including its grammatical aspects.
 2. Synthesize the spirit of each verse - not in isolation but in-sync  with ఉపనిషద్ wisdom.
 3. కంఠస్థ - Entire verse or a statement or 2 from each verse should be in your కంఠ -
@@ -96,6 +104,51 @@ Each line has 2 halves - పాద’s. (First half and second half)
 
 Each పాద has 8 syllables.
 
+== Sanskrit
 
+అకారాంత (short అ ending) words are usually Masculine in gender classification and
+ఆకారంత (దీర్ఘ అ ending) words are of feminine gender.
+
+గీతా is called  సంస్కార గ్రంధః
+సంస్కార consists of దోషాపనయనం and గుణాధానం
+దోషాపనయనం దోష + అపనయనం (means elimination)
+గుణాధానం - గుణ + ఆధాన (means embellishment or placing).
+
+Nouns have gender (M F N)
+
+Nouns in Sanskrit, as in English, are spoken of as substantives (e.g., in possessing సత్త్వ, “substance”).
+English only shows gender in the 3rd person pronoun (e.g., “he,” “she,” “it”).
+Every noun in Sanskrit has an inherent gender (as in German, French, etc.).
+
+Gender—masculine, feminine, and neuter—is therefore a conventional (philological gender) rather than biological fact in Sanskrit.
+
+While males (male animals, titles, etc.) tend to be masculine and females tend to be feminine.
+However there are many exceptions.
+For example, one word for wife (దార) is masculine.
+One word for friend is neuter (మిత్ర) while another is masculine (సహాయ).
+​
+The reason you need to know a word’s gender is because words of different genders often take different case-endings.
+
+For example,
+The masculine singular nominative case-ending for -a final stems is ః (కూప → nom. కూపః),
+The same for neuters is మ్ (వన → nom. వనమ్).
+
+== Meaning of Geeta
+
+తత్
+ఇదం
+గీతా-శాస్త్రం
+సమస్త-వేదార్థ-సార-సంగ్రహ-భూతం
+దుర్విజ్ఞేయ-అర్థం,
+
+Todays Audio 2
+తత్-అర్థ-ఆవిష్కరణాయ
+అనేకైః వివృత-పద-పదార్థ-వాక్యార్థ-న్యాయం-అపి
+అత్యంత-విరుద్ధ-అనేక-అర్థవత్వేన లౌకికైః గృహ్యమాణం-ఉపలభ్య
+అహం వివేకతః అర్థ-నిర్ధారణార్థం సంక్షేపతః వివరణం కరిష్యామి ॥
+
+link:./images/audios/0-introduction/Geeta_meaning.mp3[Geeta meaning]
+link:./images/audios/0-introduction/Geetha_meaning_2.mp3[Geeta meaning Continued]
+link:./images/audios/0-introduction/Geeta_Song.mp3[Geeta Song Meaning]
 
 @Courtesy: Dr.Lakshmana Rao Ayyagari. @copy-right to Raghavi Janaswamy and Dr.Lakshamana Rao Ayyagari
