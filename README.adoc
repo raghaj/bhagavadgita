@@ -6,7 +6,7 @@
 :data-uri:
 
 
-== link:./0-introduction.adoc[Introduction/References]
-== link:./0-Sanskrit.adoc[Sanskrit in the context of Geeta]
-== link:./2.samkya-yoga.adoc[2. Samkhya Yoga]
-== link:./12-bhakti-yoga.adoc[12. Bhakti Yoga]
+==== link:./0-introduction.adoc[Introduction/References]
+==== link:./0-Sanskrit.adoc[Sanskrit in the context of Geeta]
+==== link:./2.samkya-yoga.adoc[2. Samkhya Yoga]
+==== link:./12-bhakti-yoga.adoc[12. Bhakti Yoga]
