@@ -4,7 +4,7 @@
 :imagesdir: ./images
 :iconsdir: ./icons
 :stylesdir: stylesheets/
-:stylesheet:  colony.css
+:stylesheet: colony.css
 :data-uri:
 :toc:
 
