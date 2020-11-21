@@ -67,58 +67,6 @@ In total, 10 + 20 + 7 + 16  + 19  = 72 Verses
 
 There are 10 words in this verse. One is a సమాసము. It is called బహువ్రీహి సమాసము. BV is the abbreviation. విగ్రహ వాక్యము is the definition and every సమాసము has a విగ్రహ వాక్య. In this బహువ్రీహి సమాసము the combined meaning is different than all the individual component words meanings.
 
-==== Meaning
-
-image::./audios/2-chapter/2-1-sanskrit.jpg[]
-image::./audios/2-chapter/2-2-sanskrit.jpg[]
-
-
-== Reference Audios
-
-=== TVS Pravachanams
-
-[%header,format=csv]
-|===
-1,2,3
-link:./images/audios/2-chapter/tvs_2/tvs_2_1.mp3[Verse 1 - Tam Tadha]
-link:./images/audios/2-chapter/tvs_2/tvs_2_1_continued1.mp3[Verse 1 - Tam Tadha Continued]
-link:./images/audios/2-chapter/tvs_2/2.2.mp3[Verse 2]
-link:./images/audios/2-chapter/tvs_2/2.2_1.mp3[Verse 2 - continued]
-link:./images/audios/2-chapter/tvs_2/2.3.mp3[Verse 3]
-link:./images/audios/2-chapter/tvs_2/7-karpanyadosha-1.mp3[Verse 7 : Karpandosho 1]
-link:./images/audios/2-chapter/tvs_2/7-karpanyadosha-2.mp3[Verse 7: Karpandosho 2]
-
-
-|===
-=== Raghavi Janaswamy: Sloka Renderings
-[%header,format=csv]
-|===
-1,2,3,4,5,6,7,8
-link:./images/audios/2-chapter/chap2-1.mp3[Verse 1 ]
-link:./images/audios/2-chapter/chap2-2.mp3[Verse 2 ]
-link:./images/audios/2-chapter/chap2-3.mp3[Verse 3 ]
-link:./images/audios/2-chapter/chap2-4.mp3[Verse 4 ]
-link:./images/audios/2-chapter/chap2-5.mp3[Verse 5 ]
-link:./images/audios/2-chapter/chap2-6.mp3[Verse 6 ]
-link:./images/audios/2-chapter/chap2-7.mp3[Verse 7 ]
-link:./images/audios/2-chapter/chap2-8.mp3[Verse 8 ]
-
-link:./images/audios/2-chapter/chap2-9.mp3[Verse 9 ]
-link:./images/audios/2-chapter/chap2-10.mp3[Verse 10 ]
-link:./images/audios/2-chapter/chap2-11.mp3[Verse 11  ]
-link:./images/audios/2-chapter/chap2-12.mp3[Verse 12 ]
-link:./images/audios/2-chapter/chap2-13.mp3[Verse 13 ]
-link:./images/audios/2-chapter/chap2-14.mp3[Verse 14 ]
-link:./images/audios/2-chapter/chap2-15.mp3[Verse 15 ]
-link:./images/audios/2-chapter/chap2-16.mp3[Verse 16 ]
-
-link:./images/audios/2-chapter/chap2-17.mp3[Verse 17 ]
-link:./images/audios/2-chapter/chap2-18.mp3[Verse 18]
-link:./images/audios/2-chapter/chap2-19.mp3[Verse 19 ]
-
-
-
-|===
 
 === Summary of 1-10 Slokas
 
@@ -171,6 +119,58 @@ This is what made కృష్ణ get an inside laugh.
 తమ్ 2/1 ఉవాచ III/1 హృషీకేశః 1/1 ప్రహసన్ 1/1 ఇవ 0
 
 Then when అర్జున becomes silent (తూష్ణీమ్ 0 బభూవ III/1) భగవాన్ speaks his mind out about our delusional thinking.
+
+
+image::./audios/2-chapter/2-1-sanskrit.jpg[]
+image::./audios/2-chapter/2-2-sanskrit.jpg[]
+
+
+== Reference Audios
+
+=== TVS Pravachanams
+
+[%header,format=csv]
+|===
+1,2,3
+link:./images/audios/2-chapter/tvs_2/tvs_2_1.mp3[Verse 1 - Tam Tadha]
+link:./images/audios/2-chapter/tvs_2/tvs_2_1_continued1.mp3[Verse 1 - Tam Tadha Continued]
+link:./images/audios/2-chapter/tvs_2/2.2.mp3[Verse 2]
+link:./images/audios/2-chapter/tvs_2/2.2_1.mp3[Verse 2 - continued]
+link:./images/audios/2-chapter/tvs_2/2.3.mp3[Verse 3]
+link:./images/audios/2-chapter/tvs_2/7-karpanyadosha-1.mp3[Verse 7 : Karpandosho 1]
+link:./images/audios/2-chapter/tvs_2/7-karpanyadosha-2.mp3[Verse 7: Karpandosho 2]
+
+
+|===
+=== Raghavi Janaswamy: Sloka Renderings
+[%header,format=csv]
+|===
+1,2,3,4,5,6,7,8
+link:./images/audios/2-chapter/chap2-1.mp3[Verse 1 ]
+link:./images/audios/2-chapter/chap2-2.mp3[Verse 2 ]
+link:./images/audios/2-chapter/chap2-3.mp3[Verse 3 ]
+link:./images/audios/2-chapter/chap2-4.mp3[Verse 4 ]
+link:./images/audios/2-chapter/chap2-5.mp3[Verse 5 ]
+link:./images/audios/2-chapter/chap2-6.mp3[Verse 6 ]
+link:./images/audios/2-chapter/chap2-7.mp3[Verse 7 ]
+link:./images/audios/2-chapter/chap2-8.mp3[Verse 8 ]
+
+link:./images/audios/2-chapter/chap2-9.mp3[Verse 9 ]
+link:./images/audios/2-chapter/chap2-10.mp3[Verse 10 ]
+link:./images/audios/2-chapter/chap2-11.mp3[Verse 11  ]
+link:./images/audios/2-chapter/chap2-12.mp3[Verse 12 ]
+link:./images/audios/2-chapter/chap2-13.mp3[Verse 13 ]
+link:./images/audios/2-chapter/chap2-14.mp3[Verse 14 ]
+link:./images/audios/2-chapter/chap2-15.mp3[Verse 15 ]
+link:./images/audios/2-chapter/chap2-16.mp3[Verse 16 ]
+
+link:./images/audios/2-chapter/chap2-17.mp3[Verse 17 ]
+link:./images/audios/2-chapter/chap2-18.mp3[Verse 18]
+link:./images/audios/2-chapter/chap2-19.mp3[Verse 19 ]
+
+
+
+|===
 
 
 @Courtesy: Dr.Lakshmana Rao Ayyagari. @copy-right to Raghavi Janaswamy and Dr.Lakshamana Rao Ayyagari
