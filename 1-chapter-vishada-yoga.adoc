@@ -8,6 +8,36 @@
 :data-uri:
 :toc:
 
-= 1. Chapter - Arjuna Vishada Yoga
+== 1. Chapter - Arjuna Vishada Yoga (Total 47 Slokas)
 
 
+=== Raghavi Janaswamy: Sloka Renderings
+
+[%header,format=csv]
+|===
+1,2,3,4,5
+link:./images/audios/1-chapter/chap1-1.mp3[Verse 1 ]
+link:./images/audios/1-chapter/chap1-2.mp3[Verse 2 ]
+link:./images/audios/1-chapter/chap1-3.mp3[Verse 3 ]
+link:./images/audios/1-chapter/chap1-4.mp3[Verse 4 ]
+link:./images/audios/1-chapter/chap1-5.mp3[Verse 5 ]
+link:./images/audios/1-chapter/chap1-6.mp3[Verse 6 ]
+link:./images/audios/1-chapter/chap1-7.mp3[Verse 7 ]
+link:./images/audios/1-chapter/chap1-8.mp3[Verse 8 ]
+
+link:./images/audios/1-chapter/chap1-9.mp3[Verse 9 ]
+link:./images/audios/1-chapter/chap1-10.mp3[Verse 10 ]
+link:./images/audios/1-chapter/chap1-11.mp3[Verse 11  ]
+link:./images/audios/1-chapter/chap1-12.mp3[Verse 12 ]
+link:./images/audios/1-chapter/chap1-13.mp3[Verse 13 ]
+link:./images/audios/1-chapter/chap1-14.mp3[Verse 14 ]
+link:./images/audios/1-chapter/chap1-15.mp3[Verse 15 ]
+link:./images/audios/1-chapter/chap1-16.mp3[Verse 16 ]
+
+link:./images/audios/1-chapter/chap1-17.mp3[Verse 17 ]
+link:./images/audios/1-chapter/chap1-18.mp3[Verse 18]
+link:./images/audios/1-chapter/chap1-19.mp3[Verse 19 ]
+link:./images/audios/1-chapter/chap1-20.mp3[Verse 20]
+
+
+|===
