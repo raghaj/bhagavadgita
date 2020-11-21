@@ -8,8 +8,6 @@
 :data-uri:
 :toc:
 
-= Table of Content
-
 == Sanskrit References
 
 http://www.learnsanskrit.org/tools/sanscript
