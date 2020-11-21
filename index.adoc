@@ -1,4 +1,4 @@
-= Bhagavad Gita
+==== Bhagavad Gita
 
 :linkcss:
 :imagesdir: ./images
