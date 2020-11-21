@@ -1,4 +1,5 @@
 = Bhagavad Gita
+
 :linkcss:
 :imagesdir: ./images
 :stylesdir: stylesheets/
@@ -6,10 +7,10 @@
 :data-uri:
 
 
-==== link:./0-introduction.html[0. Geeta Organization - Sanskrit Language]
-==== link:./0-Sanskrit.html[ 0. Sanskrit in the context of Geeta]
-==== link:./2.samkya-yoga.html[2. Samkhya Yoga]
-==== link:./12-bhakti-yoga.html[12. Bhakti Yoga]
+== link:./0-introduction.html[Introduction/References]
+== link:./0-Sanskrit.html[Sanskrit in the context of Geeta]
+== link:./2.samkya-yoga.html[2. Samkhya Yoga]
+== link:./12-bhakti-yoga.html[12. Bhakti Yoga]
 
 
 
