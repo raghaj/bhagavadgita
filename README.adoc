@@ -10,6 +10,7 @@
 ==== link:./0-Sanskrit.adoc[Sanskrit in the context of Geeta]
 ==== link:./1-chapter-vishada-yoga.html[1. Arjuna Vishada Yoga]
 ==== link:./2.samkya-yoga.adoc[2. Samkhya Yoga]
+===== link:./3-chapter-karma-yoga.adoc[3. Karma Yoga]
 ==== link:./12-bhakti-yoga.adoc[12. Bhakti Yoga]
 
 === Micellaneous
