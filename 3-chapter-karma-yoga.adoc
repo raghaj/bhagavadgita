@@ -56,7 +56,6 @@ link:./images/audios/3-chapter/chap3-33.mp3[Verse 33 ]
 link:./images/audios/3-chapter/chap3-34.mp3[Verse 34 ]
 link:./images/audios/3-chapter/chap3-35.mp3[Verse 35 ]
 link:./images/audios/3-chapter/chap3-36.mp3[Verse 36 ]
-
 link:./images/audios/3-chapter/chap3-37.mp3[Verse 37 ]
 link:./images/audios/3-chapter/chap3-38.mp3[Verse 38]
 link:./images/audios/3-chapter/chap3-39.mp3[Verse 39 ]
@@ -65,6 +64,8 @@ link:./images/audios/3-chapter/chap3-40.mp3[Verse 40]
 link:./images/audios/3-chapter/chap3-41.mp3[Verse 41 ]
 link:./images/audios/3-chapter/chap3-42.mp3[Verse 42]
 link:./images/audios/3-chapter/chap3-43.mp3[Verse 43 ]
+link:./images/audios/3-chapter/chap3-43.mp3[  ]
+link:./images/audios/3-chapter/chap3-43.mp3[  ]
 
 
 |===
