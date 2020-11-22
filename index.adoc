@@ -13,5 +13,9 @@
 ===== link:./2.samkya-yoga.html[2. Samkhya Yoga]
 ===== link:./12-bhakti-yoga.html[12. Bhakti Yoga]
 
+==== Micellaneous
+
+===== link:./0-upnishads.html[Definitions from Upanishads]
+
 
 

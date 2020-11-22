@@ -132,7 +132,7 @@ Then when అర్జున becomes silent (తూష్ణీమ్ 0 బభ�
 
 [%header,format=csv]
 |===
-1,2,3
+1,2,3,4
 link:./images/audios/2-chapter/tvs_2/tvs_2_1.mp3[Verse 1 - Tam Tadha]
 link:./images/audios/2-chapter/tvs_2/tvs_2_1_continued1.mp3[Verse 1 - Tam Tadha Continued]
 link:./images/audios/2-chapter/tvs_2/2.2.mp3[Verse 2]
@@ -140,7 +140,7 @@ link:./images/audios/2-chapter/tvs_2/2.2_1.mp3[Verse 2 - continued]
 link:./images/audios/2-chapter/tvs_2/2.3.mp3[Verse 3]
 link:./images/audios/2-chapter/tvs_2/7-karpanyadosha-1.mp3[Verse 7 : Karpandosho 1]
 link:./images/audios/2-chapter/tvs_2/7-karpanyadosha-2.mp3[Verse 7: Karpandosho 2]
-
+link:./images/audios/2-chapter/tvs_2/2.62.mp3[Verse 62 & 63]
 
 |===
 === Raghavi Janaswamy: Sloka Renderings

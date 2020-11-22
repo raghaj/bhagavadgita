@@ -8,6 +8,11 @@
 
 ==== link:./0-introduction.adoc[Introduction/References]
 ==== link:./0-Sanskrit.adoc[Sanskrit in the context of Geeta]
-===== link:./1-chapter-vishada-yoga.html[1. Arjuna Vishada Yoga]
+==== link:./1-chapter-vishada-yoga.html[1. Arjuna Vishada Yoga]
 ==== link:./2.samkya-yoga.adoc[2. Samkhya Yoga]
 ==== link:./12-bhakti-yoga.adoc[12. Bhakti Yoga]
+
+=== Micellaneous
+
+==== link:./0-upnishads.adoc[Definitions from Upanishads]
+
