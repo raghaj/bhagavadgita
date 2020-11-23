@@ -8,6 +8,25 @@
 :data-uri:
 :toc:
 
+
+== Definitions from Upanishads
+
+link:./images/audios/0-upanishad/upanishad_1.mp3[Upanishad 1 ] +
+
+link:./images/audios/0-upanishad/upanishad_2.mp3[Upanishad 2 ] +
+
+link:./images/audios/appendix/brahman-eswara-reality.mp3[Brahma/Eswara/Reality ] +
+
+link:./images/audios/appendix/gudakesa.mp3[Gudakesa ] +
+
+link:./images/audios/appendix/hruseekesha.mp3[Hrusheekesha ] +
+
+link:./images/audios/appendix/parantapa.mp3[Parantapa ] +
+
+link:./images/audios/appendix/appendix-5.mp3[Summary of definitions ] +
+
+
+
 == Upanishads
 
 ఋషి's are OUR Ancestry.   +
@@ -45,11 +64,5 @@ definition of భగవాన్, మూల ప్రకృతి, 3 గుణ's
     ఇవ చ
     లోక-అనుగ్రహం కుర్వన్ లక్ష్యతే ।
 
-
-=== Definitions from Upanishads
-
-link:./images/audios/0-upanishad/upanishad_1.mp3[Upanishad 1 ] +
-
-link:./images/audios/0-upanishad/upanishad_2.mp3[Upanishad 2 ]
 
 

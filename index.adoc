@@ -16,7 +16,8 @@
 
 ==== Micellaneous
 
-===== link:./0-upnishads.html[Definitions from Upanishads]
+===== link:./0-upnishads.html[Definitions from Upanishads/Geeta]
+
 
 
 

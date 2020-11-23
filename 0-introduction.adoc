@@ -88,7 +88,7 @@ link:./images/audios/0-introduction/narayana_meaning.mp3[Narayana Meaning]
 
 link:./images/audios/0-introduction/narayana_meaning_2.mp3[Narayana Meaning Continued]
 
-2.
+2
 
      నారాయణం నమస్కృత్య నరం చైవ నరోత్తమమ్
      దేవీం సరస్వతీం వ్యాసం తతో జయముదీరయేత్
