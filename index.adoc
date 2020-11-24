@@ -17,6 +17,7 @@
 
 === Verse Rendering
 (By Raghavi Janaswamy)
+
 ==== link:./1-verses-chapter-vishada-yoga.html[1. Arjuna Vishada Yoga]
 ==== link:./2-verses-samkya-yoga.html[2. Samkhya Yoga]
 ==== link:./3-verses-chapter-karma-yoga.html[3. Karma Yoga]
