@@ -138,38 +138,17 @@ link:./images/audios/2-chapter/tvs_2/tvs_2_1_continued1.mp3[Verse 1 - Tam Tadha 
 link:./images/audios/2-chapter/tvs_2/2.2.mp3[Verse 2]
 link:./images/audios/2-chapter/tvs_2/2.2_1.mp3[Verse 2 - continued]
 link:./images/audios/2-chapter/tvs_2/2.3.mp3[Verse 3]
+link:./images/audios/2-chapter/tvs_2/2.4.mp3[Verse 4]
+link:./images/audios/2-chapter/tvs_2/2.4-2.mp3[Verse 4 - continued]
+link:./images/audios/2-chapter/tvs_2/2.5.mp3[Verse 5]
+link:./images/audios/2-chapter/tvs_2/2.5-2.mp3[Verse 5 - continued]
+link:./images/audios/2-chapter/tvs_2/2.6.mp3[Verse 6]
+link:./images/audios/2-chapter/tvs_2/2.6-2.mp3[Verse 6 - continued]
 link:./images/audios/2-chapter/tvs_2/7-karpanyadosha-1.mp3[Verse 7 : Karpandosho 1]
 link:./images/audios/2-chapter/tvs_2/7-karpanyadosha-2.mp3[Verse 7: Karpandosho 2]
+link:./images/audios/2-chapter/tvs_2/2.8.mp3[Verse 8 ]
+link:./images/audios/2-chapter/tvs_2/2.8-2.mp3[Verse 8 - continued]
 link:./images/audios/2-chapter/tvs_2/2.62.mp3[Verse 62 & 63]
-
-|===
-=== Raghavi Janaswamy: Sloka Renderings
-[%header,format=csv]
-|===
-1,2,3,4,5,6,7,8
-link:./images/audios/2-chapter/chap2-1.mp3[Verse 1 ]
-link:./images/audios/2-chapter/chap2-2.mp3[Verse 2 ]
-link:./images/audios/2-chapter/chap2-3.mp3[Verse 3 ]
-link:./images/audios/2-chapter/chap2-4.mp3[Verse 4 ]
-link:./images/audios/2-chapter/chap2-5.mp3[Verse 5 ]
-link:./images/audios/2-chapter/chap2-6.mp3[Verse 6 ]
-link:./images/audios/2-chapter/chap2-7.mp3[Verse 7 ]
-link:./images/audios/2-chapter/chap2-8.mp3[Verse 8 ]
-
-link:./images/audios/2-chapter/chap2-9.mp3[Verse 9 ]
-link:./images/audios/2-chapter/chap2-10.mp3[Verse 10 ]
-link:./images/audios/2-chapter/chap2-11.mp3[Verse 11  ]
-link:./images/audios/2-chapter/chap2-12.mp3[Verse 12 ]
-link:./images/audios/2-chapter/chap2-13.mp3[Verse 13 ]
-link:./images/audios/2-chapter/chap2-14.mp3[Verse 14 ]
-link:./images/audios/2-chapter/chap2-15.mp3[Verse 15 ]
-link:./images/audios/2-chapter/chap2-16.mp3[Verse 16 ]
-
-link:./images/audios/2-chapter/chap2-17.mp3[Verse 17 ]
-link:./images/audios/2-chapter/chap2-18.mp3[Verse 18]
-link:./images/audios/2-chapter/chap2-19.mp3[Verse 19 ]
-
-
 
 |===
 
