@@ -1,0 +1,31 @@
+
+
+:linkcss:
+:imagesdir: ./images
+:iconsdir: ./icons
+:stylesdir: stylesheets/
+:stylesheet:  colony.css
+:data-uri:
+:toc:
+
+== Atma Samyama Yoga
+
+
+:icons: font
+
+WARNING: Wolpertingers are known to nest in server racks.
+Enter at your own risk.
+
+:icons: font
+
+NOTE: Asciidoctor supports font-based admonition icons, powered by Font Awesome!
+
+
+
+
+
+
+
+
+
+

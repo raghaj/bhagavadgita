@@ -1,0 +1,71 @@
+
+
+:linkcss:
+:imagesdir: ./images
+:iconsdir: ./icons
+:stylesdir: stylesheets/
+:stylesheet:  colony.css
+:data-uri:
+:toc:
+
+== 3. Chapter - Karma Yoga (Total 43 Verses)
+
+
+=== Raghavi Janaswamy: Sloka Renderings
+
+[%header,format=csv]
+|===
+1,2,3,4,5
+link:./images/audios/3-chapter/chap3-1.mp3[Verse 1 ]
+link:./images/audios/3-chapter/chap3-2.mp3[Verse 2 ]
+link:./images/audios/3-chapter/chap3-3.mp3[Verse 3 ]
+link:./images/audios/3-chapter/chap3-4.mp3[Verse 4 ]
+link:./images/audios/3-chapter/chap3-5.mp3[Verse 5 ]
+link:./images/audios/3-chapter/chap3-6.mp3[Verse 6 ]
+link:./images/audios/3-chapter/chap3-7.mp3[Verse 7 ]
+link:./images/audios/3-chapter/chap3-8.mp3[Verse 8 ]
+
+link:./images/audios/3-chapter/chap3-9.mp3[Verse 9 ]
+link:./images/audios/3-chapter/chap3-10.mp3[Verse 10 ]
+link:./images/audios/3-chapter/chap3-11.mp3[Verse 11  ]
+link:./images/audios/3-chapter/chap3-12.mp3[Verse 12 ]
+link:./images/audios/3-chapter/chap3-13.mp3[Verse 13 ]
+link:./images/audios/3-chapter/chap3-14.mp3[Verse 14 ]
+link:./images/audios/3-chapter/chap3-15.mp3[Verse 15 ]
+link:./images/audios/3-chapter/chap3-16.mp3[Verse 16 ]
+
+link:./images/audios/3-chapter/chap3-17.mp3[Verse 17 ]
+link:./images/audios/3-chapter/chap3-18.mp3[Verse 18]
+link:./images/audios/3-chapter/chap3-19.mp3[Verse 19 ]
+link:./images/audios/3-chapter/chap3-20.mp3[Verse 20]
+
+link:./images/audios/3-chapter/chap3-21.mp3[Verse 21 ]
+link:./images/audios/3-chapter/chap3-22.mp3[Verse 22 ]
+link:./images/audios/3-chapter/chap3-23.mp3[Verse 23 ]
+link:./images/audios/3-chapter/chap3-24.mp3[Verse 24 ]
+link:./images/audios/3-chapter/chap3-25.mp3[Verse 25 ]
+link:./images/audios/3-chapter/chap3-26.mp3[Verse 26 ]
+link:./images/audios/3-chapter/chap3-27.mp3[Verse 27 ]
+link:./images/audios/3-chapter/chap3-28.mp3[Verse 28 ]
+
+link:./images/audios/3-chapter/chap3-29.mp3[Verse 29 ]
+link:./images/audios/3-chapter/chap3-30.mp3[Verse 30 ]
+link:./images/audios/3-chapter/chap3-31.mp3[Verse 31  ]
+link:./images/audios/3-chapter/chap3-32.mp3[Verse 32 ]
+link:./images/audios/3-chapter/chap3-33.mp3[Verse 33 ]
+link:./images/audios/3-chapter/chap3-34.mp3[Verse 34 ]
+link:./images/audios/3-chapter/chap3-35.mp3[Verse 35 ]
+link:./images/audios/3-chapter/chap3-36.mp3[Verse 36 ]
+link:./images/audios/3-chapter/chap3-37.mp3[Verse 37 ]
+link:./images/audios/3-chapter/chap3-38.mp3[Verse 38]
+link:./images/audios/3-chapter/chap3-39.mp3[Verse 39 ]
+link:./images/audios/3-chapter/chap3-40.mp3[Verse 40]
+
+link:./images/audios/3-chapter/chap3-41.mp3[Verse 41 ]
+link:./images/audios/3-chapter/chap3-42.mp3[Verse 42]
+link:./images/audios/3-chapter/chap3-43.mp3[Verse 43 ]
+link:./images/audios/3-chapter/chap3-43.mp3[  ]
+link:./images/audios/3-chapter/chap3-43.mp3[  ]
+
+
+|===
