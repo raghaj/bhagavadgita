@@ -9,7 +9,7 @@
 ==== link:./0-Sanskrit.adoc[Sanskrit in the context of Geeta]
 ==== link:./2.samkya-yoga.adoc[2. Samkhya Yoga]
 
-=== Verse Rendering by Raghavi Janaswamy
+=== Verse Rendering
 
 ==== link:./1-verses-chapter-vishada-yoga.adoc[1. Arjuna Vishada Yoga]
 ==== link:./2-verses-samkya-yoga.adoc[2. Samkhya Yoga]
