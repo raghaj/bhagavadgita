@@ -25,6 +25,20 @@ link:./images/audios/appendix/parantapa.mp3[Parantapa ] +
 
 link:./images/audios/appendix/appendix-5.mp3[Summary of definitions ] +
 
+== ఉపనిషద్
+
+This is the most comprehensive and authentic explanation for the word “ఉపనిషద్”,
+with the most minute details.
+
+Refer to first line of Verse 26 in chapter 3 BG.
+
+https://www.gitasupersite.iitk.ac.in/srimad?&language=te&field_chapter_value=3&field_nsutra_value=26
+
+link:./images/audios/appendix/upanishads_meaning.mp3[Upanishad ]
+
+link:./images/audios/appendix/upanishad_meaning_tadhacha.mp3[Tadhacha ]
+
+
 
 
 == Upanishads

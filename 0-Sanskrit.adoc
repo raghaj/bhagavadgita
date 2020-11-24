@@ -10,9 +10,14 @@
 
 == Sanskrit References
 
-http://www.learnsanskrit.org/tools/sanscript
-https://sanskrit.inria.fr/DICO/grammar.html
-https://spokensanskrit.org/index.php?tran_input=अपनयन&direct=se&script=hk&link=yes&mode=3
+1. https://www.gitasupersite.iitk.ac.in/srimad?&language=te&field_chapter_value=3&field_nsutra_value=26
+
+2. http://www.learnsanskrit.org/tools/sanscript
+
+3. https://sanskrit.inria.fr/DICO/grammar.html
+
+4. https://spokensanskrit.org/index.php?tran_input=अपनयन&direct=se&script=hk&link=yes&mode=3
+
 
 == Gita Verses - Patterns
 
@@ -51,6 +56,108 @@ The reason you need to know a word’s gender is because words of different gend
 For example,
 The masculine singular nominative case-ending for -a final stems is ః (కూప → nom. కూపః),
 The same for neuters is మ్ (వన → nom. వనమ్).
+
+== Visarga
+
+Devanāgarī alphabet consists of 48 characters
+1. 13 vowel
+2. 35 consonant sounds (later about hard and soft consonants)
+
+పాణని recognized all 48 of the సంస్కృత sounds and scientifically grouped them under a number of classifications, depending on the purpose.
+
+One classification is the location of the sound as it is made by the human voice.
+Another classification is the effort of the contact within the mouth at that location.
+
+Try saying క చ ట త ప and observe the tongue movement
+
+=== locations of sound.
+
+Most characters have one location;
+
+some blend two locations; (కంఠతాళవ్యములు,ఎ,ఏ,ఐ - కంఠ ఓష్ఠ్యములు ఒ,ఓ,ఔ - దంత ఓష్ఠ్యములు వ)
+
+two (ః and ం / విసర్గ  and మ్) vary, depending on the sound that precedes them;
+
+విసర్గ  (ః)  varies, depending on the sound that follows.
+
+
+Guttural: Formed by contact of the base of the tongue against the back of the throat (కంఠ్యములు).
+
+Palatal: Formed by contact of the middle of the tongue against the palate (తాలవ్యములు). The tip of the tongue touches near the front palatal ridge (the top of roots of upper front teeth, a half-inch above the top of the teeth).
+
+Cerebral: Formed by contact of the tip of the tongue against the front of the downward hard dome (the మూర్థన్యములు) at the middle of the palate. There is no good equivalent of this sound in English.
+
+Dental: Formed by contact of the tip of the tongue against the base or root of the upper front teeth (దంత్యములు).
+
+Labial: Formed by contact of the lips (ఓష్ఠ్యములు).
+
+link:./images/audios/0-upanishad/pronunciation-sanskrit.mp3[Pronunciation: Listen Here! ]
+
+విసర్గ (ః  pronounced as హ) never occurs as a word initial.
+
+Like other consonants, విసర్గ cannot be pronounced by itself without a preceding vowel;
+
+విసర్గ cannot be joined in writing with a following vowel.
+
+విసర్గ corresponds to the second half (-h) of the hard aspirates ఖ్ k-h, ఛ్ c-h, థ్ t-h, and ఫ్ p-h.
+
+It is usually pronounced from the same position as its preceding vowel – as a short, hard blowing out of the breath.
+
+Before the gutturals క్ and ఖ్, the విసర్గ is a guttural – a distinct, hard blowing with constriction at the base of the tongue – and is called జిహ్వామూలీయ. Before the labials ప్ p and ఫ్ ph, the విసర్గ is a labial and has a distinct bilabial “f” sound called ఉపధ్మానీయ.
+
+When at the end of a word with a pause afterward (e.g., at the end of a sentence), విసర్గ is pronounced as a hard “h” followed by a short echo of the preceding vowel.
+
+For example, మధుసుదనహ, అర్జునహ (For మధుసుదనః అర్జునః)
+
+When vowel is ఐ or ఔ, the echo is of the component ఇ  or ఉ  respectively, e.g. నౌః  is pronounced నౌహు.
+.
+అనుస్వార (ం మ్) never occurs as a word initial.
+
+Its pronunciation is like the French nasalization of their vowels. For example, the French word bon in bon voyage would be written and pronounced in as బాం బాం.
+The optional అనుస్వార (before mutes and the nasals న్ and మ్) alphabetically occupies the place of the class nasal it replaces.
+For example, compare శంకర and శఙ్కర (where అనుస్వార replaces ఙ్  or – incorrectly  – కంపిత and కమ్పిత (where అనుస్వార replaces the root medial nasal మ్.
+
+A lot of Sanskrit words end with విసర్గ. So విసర్గ సన్ధి is encountered very frequently.
+If you know how to split words joined by విసర్గ sandhi, you know 70% of పద విభాగ.
+
+==== Sanskrit alphabet terminology:
+
+అచ్ అచ్చులు స్వర - Vowels
+హల్ హల్లులు వ్యంజన - Consonants (Hard Consonants and soft Consonants - explained later)
+
+విసర్గ సన్ధి:
+Today we will see what happens when a word ending with విసర్గ is combined with another word that starts with a Vowel.
+
+Simplistic view - Only 2 possibilities - either విసర్గ is dropped or you end up with ఓ + ఽ (అవగ్రహ or silent అ)
+
+Some other time (soon) we will see what happens when a word ending with విసర్గ is combined with another word that starts with a hard consonant and a soft consonant and other rules pertaining to విసర్గ సన్ధి:
+
+1.
+అః + అ > ఓ + ఽ (అవగ్రహ or silent అ).
+Example:
+నమః + అస్తు > నమోఽస్తు.
+
+Actually 3 things happen here.
+
+    విసర్గ becomes ఉ - ఉకారాదేశః
+    Then that “ఉ” gains గుణ and becomes “ఓ” - గుణః
+    Thirdly another సన్ధి rule comes into play here గుణ vowels ఏ / ఓ + అ   > “అ” drops, often replaced with an అవగ్రహ ఽ పూర్వరుపసన్ధిః
+
+2.
+అః + Any vowel except అ > విసర్గ is dropped.   విసర్గ లోప సన్ధి
+Example:
+అర్జునః + ఉవాచ > అర్జున ఉవాచ
+ధృతరాష్ట్రః + ఉవాచ  > ధృతరాష్ట్ర ఉవాచ
+సంజయః + ఉవాచ  >  సంజయ ఉవాచ
+కృష్ణః +  ఉవాచ  >  కృష్ణ ఉవాచ.
+
+Please verify maheswaraani sutrani
+If I remember in Sanskrit there is only ओ औ ए ऐ
+Telugu had short forms of ओ ए
+
+image::./audios/Sanskrit/Sanskrit-letters.jpg[]
+
+
 
 == Meter / ఛందస్సు  in BhagavadGita
 
