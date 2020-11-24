@@ -1,17 +1,23 @@
-=== Bhagavad Gita
-==== (Content compiled by Dr.Lakshmana Rao Ayyagari & Pravachanams from Sri. Tatva Vidananda Saraswathi)
+
 
 :linkcss:
 :imagesdir: ./images
+:iconsdir: ./icons
 :stylesdir: stylesheets/
 :stylesheet:  colony.css
 :data-uri:
+:toc:
+
+=== Bhagavad Gita [.left.text-center]
+(Content compiled by Dr.Lakshmana Rao Ayyagari & Pravachanams from Sri. Tatva Vidananda Saraswathi)
+
 
 ==== link:./0-introduction.adoc[Introduction/References]
 ==== link:./0-Sanskrit.adoc[Sanskrit in the context of Geeta]
 ==== link:./2.samkya-yoga.adoc[2. Samkhya Yoga]
 
-=== Verse Rendering (By Raghavi Janaswamy)
+=== Verse Rendering
+(By Raghavi Janaswamy)
 
 ==== link:./1-verses-chapter-vishada-yoga.adoc[1. Arjuna Vishada Yoga]
 ==== link:./2-verses-samkya-yoga.adoc[2. Samkhya Yoga]
