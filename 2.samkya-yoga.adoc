@@ -148,6 +148,12 @@ link:./images/audios/2-chapter/tvs_2/7-karpanyadosha-1.mp3[Verse 7 : Karpandosho
 link:./images/audios/2-chapter/tvs_2/7-karpanyadosha-2.mp3[Verse 7: Karpandosho 2]
 link:./images/audios/2-chapter/tvs_2/2.8.mp3[Verse 8 ]
 link:./images/audios/2-chapter/tvs_2/2.8-2.mp3[Verse 8 - continued]
+link:./images/audios/2-chapter/tvs_2/2.9-telugu.mp3[Verse 9- Telugu ]
+link:./images/audios/2-chapter/tvs_2/2.9-2.mp3[Verse 9 - English]
+
+link:./images/audios/2-chapter/tvs_2/2.10-telugu.mp3[Verse 10- Telugu ]
+link:./images/audios/2-chapter/tvs_2/2.10-english.mp3[Verse 10 - English]
+
 link:./images/audios/2-chapter/tvs_2/2.62.mp3[Verse 62 & 63]
 
 |===
