@@ -93,14 +93,14 @@ link:./images/audios/2-chapter/chap2-70.mp3[Verse 70 ]
 
 link:./images/audios/2-chapter/chap2-71.mp3[Verse 71 ]
 link:./images/audios/2-chapter/chap2-72.mp3[Verse 72 ]
-link:./images/audios/2-chapter/chap2-71.mp3 [ ]
-link:./images/audios/2-chapter/chap2-72.mp3[  ]
 link:./images/audios/2-chapter/chap2-71.mp3[  ]
 link:./images/audios/2-chapter/chap2-72.mp3[  ]
 link:./images/audios/2-chapter/chap2-71.mp3[  ]
 link:./images/audios/2-chapter/chap2-72.mp3[  ]
 link:./images/audios/2-chapter/chap2-71.mp3[  ]
-link:./images/audios/2-chapter/chap2-72.mp3[ ]
+link:./images/audios/2-chapter/chap2-72.mp3[  ]
+link:./images/audios/2-chapter/chap2-71.mp3[  ]
+link:./images/audios/2-chapter/chap2-72.mp3[  ]
 
 
 
