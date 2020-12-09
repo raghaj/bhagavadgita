@@ -38,7 +38,11 @@ link:./images/audios/appendix/upanishads_meaning.mp3[Upanishad ]
 
 link:./images/audios/appendix/upanishad_meaning_tadhacha.mp3[Tadhacha ]
 
+== becoming vs being
 
+link:./images/audios/appendix/becoming-vs-being.mp3[Becoming vs Being] +
+
+link:./images/audios/appendix/becoming-vs-being-2.mp3[Becoming vs Being Continued ] +
 
 
 == Upanishads
