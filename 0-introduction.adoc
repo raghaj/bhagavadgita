@@ -46,7 +46,7 @@ https://templesinindiainfo.com/shrimad-bhagavadgitashankarabhashyam-lyrics-in-te
     ఆశ్రమిభిః చ శ్రేయోర్థిభిః
     అనుష్ఠీయమానః ।
 
-2  link:./images/audios/0-introduction/intro-1.mp3[ దీర్ఘేణ]
+2  link:./images/audios/0-introduction/intro-2.mp3[ దీర్ఘేణ]
 
     దీర్ఘేణ కాలేన
     అనుష్ఠాతృఈణాం
