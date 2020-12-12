@@ -99,11 +99,11 @@ https://templesinindiainfo.com/shrimad-bhagavadgitashankarabhashyam-lyrics-in-te
 
 5 link:./images/audios/0-introduction/intro-5.mp3[ గుణ-అధికైః]
 
-గుణ-అధికైః హి గృహీతః
-అనుష్ఠీయమానః చ
-ధర్మః
-ప్రచయం
-గమిష్యతీతి ।
+    గుణ-అధికైః హి గృహీతః
+    అనుష్ఠీయమానః చ
+    ధర్మః
+    ప్రచయం
+    గమిష్యతీతి ।
 
 6 link:./images/audios/0-introduction/intro-6.mp3[ తం ధర్మం]
 
